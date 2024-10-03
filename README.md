@@ -78,8 +78,7 @@ RegisterNumber:212223040037
 
 
 **Output:**
-
-![Screenshot 2024-10-03 105144](https://github.com/user-attachments/assets/20125deb-4132-472e-b471-c6be66c318b9)
+![image](https://github.com/user-attachments/assets/affdc774-b82f-485d-a0fd-5eae1caab5c2)
 
 **Result:**
 
